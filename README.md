@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkitPandey894
 - 👀 I’m interested in Data Anaylsis and Visualization
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m had done my B.Tech with specialization in Data Science and Doing my M.Tech in Open Source Technology
 - 💞️ I’m looking to collaborate on Project required Data Science Skills
 - 📫 How to reach me connect me on linkedin.com/in/ankit-pandey-a27228191
 
